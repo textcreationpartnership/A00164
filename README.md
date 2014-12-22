@@ -35,9 +35,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Lessus in funere Raphaelis Thorii medici et poetæ præstantissimi, qui Londini peste extinctus bonis 
+LESSVS
+IN FVNERE
+RAPHAELIS THORII
+MEDICI ET POETAE
+PRAESTANTISSIMI,QVI LONDINI PESTE
+EXTINCTVS BONIS
 #####Body#####
-Lessus in funere Raphaelis Thorii medici et poetæ præstantissimi, qui Londini peste extinctus bonis 
+
+1. LESSVS
+IN FVNERE
+RAPHAELIS THORII
+MEDICI ET POETAE
+PRAESTANTISSIMI,
+THorius, Poeta quo nec vllus dignior,Dignum Poetam nactus eſt.Gemella virtus laude ſociauit pariƲiuu
 **Types of content**
 
   * There are 91 **verse** lines!
