@@ -35,12 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-LESSVS
-IN FVNERE
-RAPHAELIS THORII
-MEDICI ET POETAE
-PRAESTANTISSIMI,QVI LONDINI PESTE
-EXTINCTVS BONIS
+
 #####Body#####
 
 1. LESSVS
